@@ -21,22 +21,22 @@ This project provides an interactive Power BI dashboard to evaluate and monitor 
 - **Excel** (as data source)
 
 
-## 📊 Key Metrics
+## Key Metrics
 - **PSI**: Detects the shift in distribution between two different populations over time.
 - **CSI**: Detects data drift and stability at variable level.
 - **Gini Coefficient**: Evaluates model’s ability to distinguish good vs. bad customers.
 - **Bad Rate**: % of defaults in the dataset.
 
-## 🧠 Business Use Case
+## Business Use Case
 Retail lending institutions rely on score card models to automate loan approval. However, over time, these models may degrade due to changes in customer behavior or economic factors. This dashboard helps:
 - Monitor changes in customer profiles or model input variables.
 - Ensure model predictions remain consistent and stable over time.
 - Trigger revalidation if instability is detected.
 
-## 📸 Sample Visuals
+## Sample Visuals
 Screenshots of the dashboard can be found in the `Screenshots/` folder.
 
-## ✍️ Author
+## Author
 **Ramya Chinnari**  
 Internship Project | ICICI Bank  
 Department of Electronics & Communication Engineering, NIT Raipur
