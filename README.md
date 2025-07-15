@@ -1,7 +1,7 @@
 # PowerBI-Dashboard-Project
 An interactive Power BI dashboard for monitoring credit risk models using metrics like Gini coefficient, PSI, CSI, and bad rate. Enables quarter-wise analysis, variable stability tracking, and visual insights for model performance evaluation.
 
-# Credit Risk Monitoring Dashboard – Power BI
+# ScoreCard Model Monitoring Dashboard – Power BI
 
 ## 📊 Overview
 This project provides an interactive Power BI dashboard to evaluate and monitor credit risk model performance using key statistical indicators. The dashboard is designed for retail underwriting teams, risk analysts, and data scientists in the banking and financial services domain.
