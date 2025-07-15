@@ -3,7 +3,7 @@ An interactive Power BI dashboard for monitoring credit risk models using metric
 
 # ScoreCard Model Monitoring Dashboard – Power BI
 
-## 📊 Overview
+## Overview
 This project provides an interactive Power BI dashboard to evaluate and monitor credit risk model performance using key statistical indicators. The dashboard is designed for retail underwriting teams, risk analysts, and data scientists in the banking and financial services domain.
 
 ## 🚀 Features
